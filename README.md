@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Github Stats Card : https://github.com/anuraghazra/github-readme-stats -->
-[![ywlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyw1217)](https://github.com/anuraghazra/github-readme-stats)
+[![ywlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyw1217&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Github Stats Card : https://github.com/anuraghazra/github-readme-stats -->
 
 <div align=right>
