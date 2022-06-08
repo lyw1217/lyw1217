@@ -12,7 +12,7 @@
  
 <div>
 
-<img src="http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://young-cow.tistory.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mvl100d@gmail.com">
+<a href="https://young-cow.tistory.com"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://young-cow.tistory.com"></a> <a href="mailto:mvl100d@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mvl100d@gmail.com"></a>
 
 
 
